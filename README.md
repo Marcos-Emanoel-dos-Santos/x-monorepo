@@ -13,7 +13,7 @@ Para acessar o site em si e utilizar a aplicação, [clique aqui](https://x-fron
 Para acessar o _PDF_ com o tutorial de uso, [clique aqui](Tutorial_de_Uso.pdf).
 
 **Vídeo Explicativo**
-Para acessar o _vídeo_ com o funcionamento do sistema, [clique aqui]().
+Para acessar o _vídeo_ com o funcionamento do sistema, [clique aqui](https://youtu.be/yS6FGaIdYgo).
 
 **Documento Técnico do Sistema**
 Para acessar a documentação técnica e implantação do sistema (para devs), [clique aqui](Documentacao_do_Sistema.pdf).
